@@ -1586,3 +1586,7 @@ video {
     color: rgb(250 204 21 / var(--tw-text-opacity));
   }
 }
+
+*{
+  scroll-behavior: smooth;
+}
